@@ -1,0 +1,25 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\91831\\Desktop\\JDBC Projects\\mysql-connector-j-9.1.0\\mysql-connector-j-9.1.0.jar"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "MyDataBase",
+            "database": "banking_system",
+            "username": "root",
+            "password": "Sbera@2003",
+            "connectionTimeout": 50
+        }
+    ]
+}
