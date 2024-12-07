@@ -54,7 +54,21 @@
    - Proper exception handling is implemented to catch SQL exceptions and display user-friendly error messages.
    - Handling invalid inputs and transactions such as insufficient balance.
 
-## 5. Output Images:
+## 5. DataBase Images:
+
+![Screenshot 2024-12-07 214357](https://github.com/user-attachments/assets/53bcef02-fc61-4ee1-add5-d082cc7e8806)
+![Screenshot 2024-12-07 214347](https://github.com/user-attachments/assets/71d952d5-8927-4b7c-8673-e741d23cce9b)
+
+
+## 6. Output Images:
+
+![Screenshot 2024-12-07 214630](https://github.com/user-attachments/assets/b10a5b45-7604-4c0b-a8e1-fcbc3c6cc5af)
+![Screenshot 2024-12-07 214648](https://github.com/user-attachments/assets/2c3f6a5b-e4e5-47e6-b3d7-0d5a650a63e7)
+![Screenshot 2024-12-07 214710](https://github.com/user-attachments/assets/59771258-53a0-4ca1-b2b0-371290ad53dd)
+
+
+
+
 
 
 
